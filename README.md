@@ -9,7 +9,7 @@
 
 - 🤝 Seeking help with **anything** that expands my testing and tech knowledge. 
 
-- 💬 Ask me about **Testing basics, automation, or QA tools.**
+- 💬 Ask me about **Testing, automation, or QA tools.**
 
 <h3 align="center">Languages and Tools:</h3>
 
